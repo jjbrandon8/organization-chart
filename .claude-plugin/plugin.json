@@ -1,0 +1,12 @@
+{
+  "name": "organization-chart",
+  "version": "1.0.0",
+  "description": "Creates the 9 functional areas every business has as empty folders, based on Fayol, Porter and Mintzberg. Spanish or English.",
+  "author": {
+    "name": "jjbrandon8",
+    "url": "https://github.com/jjbrandon8"
+  },
+  "repository": "https://github.com/jjbrandon8/organization-chart",
+  "license": "MIT",
+  "keywords": ["organization-chart", "organigrama", "business", "departments", "areas", "startup", "pyme"]
+}

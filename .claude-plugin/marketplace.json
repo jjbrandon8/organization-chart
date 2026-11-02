@@ -1,0 +1,17 @@
+{
+  "name": "jjbrandon8",
+  "description": "Skills by jjbrandon8 for starting and organizing a business.",
+  "owner": {
+    "name": "jjbrandon8",
+    "url": "https://github.com/jjbrandon8"
+  },
+  "plugins": [
+    {
+      "name": "organization-chart",
+      "source": "./",
+      "description": "Creates the 9 functional areas every business has as empty folders, based on Fayol, Porter and Mintzberg. Spanish or English.",
+      "version": "1.0.0",
+      "license": "MIT"
+    }
+  ]
+}
